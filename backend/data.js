@@ -8,7 +8,8 @@ const data = {
             price:125,
             brand:"nike",
             rating:4.5,
-            NumReviews:1293,            
+            NumReviews:1293,
+            countInStock:10,            
         },{
             _id:'2',
             name:"adidas slim ",
@@ -16,7 +17,9 @@ const data = {
             image:"/image/p2.jfif",
             price:130,
             brand:"adidas",
-            rating:4.5,            
+            rating:4.5,   
+            NumReviews:1293,
+            countInStock:10,       
         },{
             _id:'3',
             name:"puma slim ",
@@ -25,6 +28,8 @@ const data = {
             price:100,
             brand:"puma",
             rating:4.5,
+            NumReviews:1293,
+            countInStock:10,
         },{
             _id:'4',
             name:"nike slim ",
@@ -33,6 +38,8 @@ const data = {
             price:120,
             brand:"nike",
             rating:5,
+            NumReviews:1293,
+            countInStock:10,
         },{
             _id:'5',
             name:"nike slim ",
@@ -41,6 +48,8 @@ const data = {
             price:120,
             brand:"nike",
             rating:3.5,
+            NumReviews:1293,
+            countInStock:10,
         },
      ]
 }
